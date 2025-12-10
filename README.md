@@ -1,4 +1,4 @@
-# Superstore Sales Dashboard – Data Visualization and Storytelling
+📊 Data Analyst Internship — Task 2
 
 This project is part of the Data Analyst Internship Task 2, where the objective was to creat meaningful visualizations and present data insights using Power BI.
 
