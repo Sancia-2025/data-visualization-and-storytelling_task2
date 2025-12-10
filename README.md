@@ -41,10 +41,10 @@ Profitability varies sharply across sub-categories. Items like Copiers and Phone
 Over time, sales display a consistent trend with seasonality patterns. This suggests regular spikes during certain months, which can help in forecasting demand and planning inventory.
 
 Overall, the story highlights that:
--Technology and Consumer segments drive major revenue
--West region is the strongest market
--Some sub-categories are highly profitable, while others need attention
--Sales follow predictable seasonal trends
+Technology and Consumer segments drive major revenue
+,West region is the strongest market
+,Some sub-categories are highly profitable, while others need attention
+,Sales follow predictable seasonal trends
 
 This understanding helps businesses focus on high-performing areas and improve weak segments to maximize overall growth.
 
